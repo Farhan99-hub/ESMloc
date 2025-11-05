@@ -1,0 +1,5 @@
+torch
+fair-esm
+streamlit
+numpy
+tqdm
